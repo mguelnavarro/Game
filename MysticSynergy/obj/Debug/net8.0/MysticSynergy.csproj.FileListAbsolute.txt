@@ -1,0 +1,14 @@
+C:\Users\migue\Documents\MysticSynergy\MysticSynergy\bin\Debug\net8.0\MysticSynergy.exe
+C:\Users\migue\Documents\MysticSynergy\MysticSynergy\bin\Debug\net8.0\MysticSynergy.deps.json
+C:\Users\migue\Documents\MysticSynergy\MysticSynergy\bin\Debug\net8.0\MysticSynergy.runtimeconfig.json
+C:\Users\migue\Documents\MysticSynergy\MysticSynergy\bin\Debug\net8.0\MysticSynergy.dll
+C:\Users\migue\Documents\MysticSynergy\MysticSynergy\bin\Debug\net8.0\MysticSynergy.pdb
+C:\Users\migue\Documents\MysticSynergy\MysticSynergy\obj\Debug\net8.0\MysticSynergy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\migue\Documents\MysticSynergy\MysticSynergy\obj\Debug\net8.0\MysticSynergy.AssemblyInfoInputs.cache
+C:\Users\migue\Documents\MysticSynergy\MysticSynergy\obj\Debug\net8.0\MysticSynergy.AssemblyInfo.cs
+C:\Users\migue\Documents\MysticSynergy\MysticSynergy\obj\Debug\net8.0\MysticSynergy.csproj.CoreCompileInputs.cache
+C:\Users\migue\Documents\MysticSynergy\MysticSynergy\obj\Debug\net8.0\MysticSynergy.dll
+C:\Users\migue\Documents\MysticSynergy\MysticSynergy\obj\Debug\net8.0\refint\MysticSynergy.dll
+C:\Users\migue\Documents\MysticSynergy\MysticSynergy\obj\Debug\net8.0\MysticSynergy.pdb
+C:\Users\migue\Documents\MysticSynergy\MysticSynergy\obj\Debug\net8.0\MysticSynergy.genruntimeconfig.cache
+C:\Users\migue\Documents\MysticSynergy\MysticSynergy\obj\Debug\net8.0\ref\MysticSynergy.dll
