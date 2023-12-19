@@ -48,14 +48,15 @@ public class Cards
             Ability = ability;
         }
     }
+
     public void CreateCards()
     {
         CreatureCard dragon = new CreatureCard("Dragon", 6, 5, 4);
-        CreatureCard knight = new CreatureCard("Cavalheiro",);
-        SpellCard lightning = new SpellCard();
-        SpellCard fireball = new SpellCard();
-
+        CreatureCard knight = new CreatureCard("Cavalheiro", 3, 2, 3);
+        SpellCard cure = new SpellCard("Cura", 2, "Aumenta 2 pontos de vida do jogador");
+        SpellCard fireball = new SpellCard("Bola de fogo", 3, "Causa 4 de dano a qualquer alvo");
+        ArtifactCard bladeJustice = new ArtifactCard("Espada da Justiça",3, "A criatura equipada ganha +2 ATK");
+        ArtifactCard shieldMana = new ArtifactCard("Escudo de mana", 2, "A criatura equipada ganha proteção contra feitiços");
 
 
     }
-}

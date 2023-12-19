@@ -1,23 +1,50 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Security.Cryptography.X509Certificates;
-using static Cards;
-
 public class MysticSynergyGame
 {
+    private Deck deck = new Deck();
 
-
-    public void Play()
+    public void ManageDeck()
     {
-        Console.WriteLine("Boa sorte!");    }
+        bool managingDeck = true;
+        while (managingDeck)
+        {
+            Console.WriteLine("\nGerenciamento de Deck:");
+            Console.WriteLine("1. Adicionar carta ao deck");
+            Console.WriteLine("2. Remover carta do deck");
+            Console.WriteLine("3. Visualizar deck");
+            Console.WriteLine("4. Voltar");
 
-    public void CreateCards()
-    {
-        CreatureCard dragon = new CreatureCard("Dragon", 6, 5, 4);
-        CreatureCard knight = new CreatureCard("Cavalheiro",);
+            string choice = Console.ReadLine();
+            switch (choice)
+            {
+                case "1":
+                    AddCardToDeck();
+                    break;
+                case "2":
+                    RemoveCardFromDeck();
+                    break;
+                case "3":
+                    deck.Display();
+                    break;
+                case "4":
+                    managingDeck = false;
+                    break;
+            }
+        }
     }
 
+    private void AddCardToDeck()
+    {
+        // Implementar lógica para adicionar uma carta ao deck
+        // Exemplo: Solicitar ao usuário o nome da carta e adicioná-la ao deck
+    }
 
+    private void RemoveCardFromDeck()
+    {
+        // Implementar lógica para remover uma carta do deck
+        // Exemplo: Solicitar ao usuário o nome da carta e removê-la do deck
+    }
 
-
+    // Outros métodos...
+    
 }
